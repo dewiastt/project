@@ -1,4 +1,3 @@
-# project
 # SangattaStay — Platform Reservasi Hotel & Fasilitas Berbayar di Sangatta
 
 **SangattaStay** adalah aplikasi web direktori dan sistem pemesanan akomodasi hotel serta akses fasilitas tambahan (*day-pass*) di kawasan Sangatta, Kabupaten Kutai Timur, Kalimantan Timur. Aplikasi ini memungkinkan pengguna untuk memesan kamar sekaligus memilih fasilitas tambahan sesuai kebutuhan (*Pay-As-You-Choose*), maupun memesan fasilitas hotel secara mandiri tanpa menginap.
