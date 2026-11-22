@@ -1,0 +1,9 @@
+PERBAIKAN FOTO FASILITAS
+
+Perubahan pada paket ini:
+1. Memperbaiki isLocalImageUsable() di config.php agar tidak menolak foto fasilitas yang valid.
+2. Mengganti foto fasilitas yang sebelumnya berisi lapangan olahraga/anime dengan foto ilustratif yang sesuai: sarapan, kolam renang, gym, dan area bermain anak.
+3. Mengisi file JPG yang sebelumnya kosong (0 byte).
+
+File gambar berada di assets/fasilitas/. Foto ilustratif baru juga merupakan gambar hasil generasi AI, bukan dokumentasi hotel tertentu.
+Jika sudah ada database lama, tidak perlu mengimpor ulang database.sql karena nama file foto lama tetap dipertahankan.
